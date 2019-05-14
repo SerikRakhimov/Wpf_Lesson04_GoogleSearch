@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleSearch", "GoogleSearch\GoogleSearch.csproj", "{0E99E316-7CB6-49CF-BD58-0B35B032E83B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E99E316-7CB6-49CF-BD58-0B35B032E83B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E99E316-7CB6-49CF-BD58-0B35B032E83B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E99E316-7CB6-49CF-BD58-0B35B032E83B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E99E316-7CB6-49CF-BD58-0B35B032E83B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D2D1F01-1F37-4A2F-A3AD-D5E984B353AD}
+	EndGlobalSection
+EndGlobal
